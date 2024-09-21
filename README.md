@@ -2,7 +2,8 @@
 Hi there! 👋 I'm Nauryzbek<br><br>I'm a computer science student at Berea College and a Teaching Assistant (TA) for a Software Design & Implementation course. I have hands-on experience with Python and JavaScript, which are my strongest skills. I’m passionate about building projects that solve real-world problems, and I’ve enjoyed working on personal projects like a Blackjack game and a Hangman game.<br><br>My current fascination is with React, which I’m using to rebuild my portfolio. I’m always looking for ways to improve my skills and create clean, efficient code.<br><br>Outside of tech, I enjoy playing table tennis, reading historical books, and cooking.<br><br>Feel free to check out my projects and connect!
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/berdiyev.kz/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nauryzbekberdi) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/berdiyev.kz/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nauryzbekberdi/) 
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
