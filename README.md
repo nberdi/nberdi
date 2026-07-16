@@ -1,16 +1,25 @@
-## Hi there 👋
+# Nauryzbek Berdi
 
-<!--
-**nberdi/nberdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack & Backend Engineer** | CS @ Berea College (graduating May 2027)
 
-Here are some ideas to get you started:
+I build systems that scale. Currently focused on distributed backend architecture, AI/ML pipelines, and medical imaging applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Recent Work
+
+- **Computational Medical Imaging** – Research Intern at Brigham and Women's Hospital / Harvard Medical School (May–July 2026). Built a pipeline for 3D coronary artery reconstruction from CTA imaging to support cardiac surgery planning.
+- **Distributed Job Queue System** – TaskFlow: Async job processing with Redis/BullMQ, idempotent retry logic, and real-time status updates. Production-grade patterns documented.
+- **RAG-Powered Document Analysis** – LexAI: Legal document QA system using vector embeddings, pgvector, and GPT-4o with clause-level citations.
+- **Automated Code Review** – ReviewBot: GitHub App performing AI-powered inline code review on every PR.
+
+## 💻 Skills
+
+**Languages:** Python, JavaScript, TypeScript, SQL, C++  
+**Backend & Infrastructure:** Node.js, Express, FastAPI, PostgreSQL, Redis, Docker, distributed systems  
+**Frontend:** React, Next.js, Tailwind CSS  
+**AI/ML:** RAG pipelines, vector embeddings, LangChain.js, PyTorch, OpenAI & Anthropic APIs
+
+## 🔗 Connect
+
+- **Portfolio:** [nberdi.github.io](https://nberdi.github.io)
+- **LinkedIn:** [linkedin.com/in/nauryzbekberdi](https://linkedin.com/in/nauryzbekberdi)
+- **Email:** berdinauryzbek@gmail.com
